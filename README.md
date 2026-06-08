@@ -141,13 +141,11 @@ the-perfect-guess/
 
 ## Author
 
-**[Your Name]**
-B.Tech (AI & ML) — 3rd Year
+Kashish Arya
+B.Tech (AI & ML)
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: kashish7714(https://github.com/your-username)
+- LinkedIn: www.linkedin.com/in/kashish-arya-062249383
+- Email : kashish7714ar@gmail.com
 
----
 
-*Feel free to fork this, open issues, or suggest improvements. It's a small project but I'm always open to feedback.*
