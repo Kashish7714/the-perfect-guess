@@ -144,7 +144,7 @@ the-perfect-guess/
 Kashish Arya
 B.Tech (AI & ML)
 
-- GitHub: kashish7714(https://github.com/your-username)
+- GitHub: kashish7714
 - LinkedIn: www.linkedin.com/in/kashish-arya-062249383
 - Email : kashish7714ar@gmail.com
 
