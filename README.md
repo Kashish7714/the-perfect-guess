@@ -141,7 +141,7 @@ the-perfect-guess/
 
 ## Author
 
-Kashish Arya
+Kashish 
 B.Tech (AI & ML)
 
 - GitHub: kashish7714
